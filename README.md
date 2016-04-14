@@ -10,7 +10,7 @@ Como obtener un track id:
 
 2. Seleccionar pestaña "Admin" / "Administrador".
 
-3. En el menú desplegable "ACCOUNT" / "CUENTA"In the ACCOUNT, click en "Crear nueva cuenta" / "Create new account". (O si lo prefieres selecciona una de las que ya tienes creadas)
+3. En el menú desplegable "ACCOUNT" / "CUENTA", click en "Crear nueva cuenta" / "Create new account". (O si lo prefieres selecciona una de las que ya tienes creadas)
 
 4. Seleccionar el la pestaña central, en propiedad, "Nueva propiedad" (se pueden crear hasta 50 por cuenta)
 
